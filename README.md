@@ -1,2 +1,2 @@
 # survival-on-the-Titanic
-using SQL (relational database) and R to predict who is most likely to survive the disaster
+using SQL (relational database) and R to determine who were most likely to survive the disaster
